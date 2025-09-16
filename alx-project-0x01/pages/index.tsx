@@ -1,4 +1,5 @@
 // pages/users/index.tsx
+const Home: React.FC = () => {", "import Header from", " Welcome to our Application!"
 import { useState } from "react";
 import { UserData } from "../../interfaces";
 import UserCard from "../../components/common/UserCard";
